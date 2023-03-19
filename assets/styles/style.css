@@ -1,0 +1,35 @@
+.wrapper {
+    background-color: RGB(146, 133, 145);
+
+}
+
+.wrapper__directors {
+    display: flex;
+    flex-direction: column;
+
+    height: 500px;
+    width: 70%;
+
+}
+
+.director {
+
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    border-top: 1px solid rgba(0, 0, 0, 0.5);
+}
+
+.occupation {
+
+    color: white;
+    font-size: medium;
+}
+
+.movies {
+    color: black;
+    margin-left: 550pt;
+
+}
+
+.bestmovies {}
